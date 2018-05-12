@@ -1,0 +1,23 @@
+{
+  "name": "vibranium-client",
+  "version": "1.0.0",
+  "description": "vibranium client to send transactions to vibranium server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkxicor/vibranium-client.git"
+  },
+  "keywords": [
+    "vibranium",
+    "client"
+  ],
+  "author": "bitbat-io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkxicor/vibranium-client/issues"
+  },
+  "homepage": "https://github.com/hkxicor/vibranium-client#readme"
+}
